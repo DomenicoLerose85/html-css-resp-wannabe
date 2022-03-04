@@ -83,6 +83,20 @@ img{
     width: 100%;
   }
 
+  img{
+    height: 100px;
+    width: auto;
+    margin-top: 20px;
+  }
+
+  #why .row > .first,
+  #why .row > .second,
+  #why .row > .third {
+    width: 100%;
+    margin-top: 5px;
+
+  }
+
  
  
 }
