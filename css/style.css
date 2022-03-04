@@ -97,8 +97,21 @@ img{
 
   }
 
- 
- 
-}
+  h1{
+    padding-top: 10px;
+  }
 
+  h3{
+    padding-top: 10px;
+    font-size: 18px;
+  }
+
+  #lezioni.container {
+    background-color: #F2F2CD;
+  }
+
+  #why.container.grey {
+    background-color: #F2F2CD;
+  } 
+}
 /* /mdeia query */
